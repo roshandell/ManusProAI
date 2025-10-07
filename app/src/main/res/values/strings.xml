@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Manus Pro AI</string>
+    <string name="chat_hint">پیام خود را بنویسید...</string>
+    <string name="send">ارسال</string>
+    <string name="dashboard">داشبورد</string>
+    <string name="settings">تنظیمات</string>
+    <string name="image_generator">تولید تصویر</string>
+    <string name="new_chat">چت جدید</string>
+    <string name="model_selection">انتخاب مدل</string>
+    <string name="unlimited">نامحدود</string>
+    <string name="pro_version">نسخه Pro</string>
+    <string name="total_messages">کل پیام‌ها</string>
+    <string name="images_generated">تصاویر تولید شده</string>
+    <string name="code_executions">اجرای کد</string>
+    <string name="web_searches">جستجوی وب</string>
+    <string name="api_key_hint">کلید API OpenAI</string>
+    <string name="save">ذخیره</string>
+    <string name="generate_image">تولید تصویر</string>
+    <string name="image_prompt_hint">توضیحات تصویر را وارد کنید...</string>
+    <string name="downloading">در حال دانلود...</string>
+    <string name="error_occurred">خطایی رخ داد</string>
+    <string name="copied_to_clipboard">کپی شد</string>
+</resources>

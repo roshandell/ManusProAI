@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="چت" />
+    <item
+        android:id="@+id/nav_image"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="@string/image_generator" />
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/dashboard" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/settings" />
+</menu>
